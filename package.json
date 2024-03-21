@@ -1,0 +1,11 @@
+{
+  "name": "luongluyen",
+  "version": "1.0.0",
+  "description": "Xây dựng website nhanh chóng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuongLuyen",
+  "license": "ISC"
+}
