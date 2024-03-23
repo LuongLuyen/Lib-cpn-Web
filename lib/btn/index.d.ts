@@ -1,2 +1,2 @@
-declare const ButtonW: string, Button: string;
-export {ButtonW, Button};
+declare const NutMauTrang: string, ThanhTimKiem: string;
+export {NutMauTrang, ThanhTimKiem};
